@@ -29,3 +29,15 @@ const myFunction = function () {
 // undefined- undefined
 // null - object
 // boolean, number, string = same
+
+
+// +++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+
+let myName = "aditya"
+
+let anothername= myName
+
+
